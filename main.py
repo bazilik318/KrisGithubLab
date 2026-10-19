@@ -1,3 +1,3 @@
-a=1
-b=2
+a = int(input("Введите число a: ")))
+b = int(input("Введите число b: ")))
 print("a+b=", a+b)
